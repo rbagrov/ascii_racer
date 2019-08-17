@@ -1,6 +1,10 @@
 # ASCII RACER
 
 [![PyPI version](https://badge.fury.io/py/asciiracer.svg)](https://badge.fury.io/py/asciiracer)
+[![Build Status](https://travis-ci.com/UpGado/ascii_racer.svg?branch=master)](https://travis-ci.com/UpGado/ascii_racer)
+![GitHub last commit](https://img.shields.io/github/last-commit/UpGado/ascii_racer)
+[![Downloads](https://pepy.tech/badge/asciiracer)](https://pepy.tech/project/asciiracer)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 A racing game that runs in Terminal. 100% Python
 
@@ -18,7 +22,12 @@ Collect as many alcoholic drinks as possible, while avoiding the `Beer` drinks. 
 | s    |  Decelerate |
 | q    |  Quit game  |
 
-### How to set up?
+### Installation
+
+> ```diff
+> + Please report issues if you try to install and run into problems!
+> ```
+
 Make sure you are running at least Python 3.6.0
 
 Install using pip:
